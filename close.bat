@@ -1,0 +1,1 @@
+TASKKILL /f /im java.exe /T
