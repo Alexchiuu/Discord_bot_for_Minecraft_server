@@ -23,3 +23,19 @@ This project solves the problem by introducing a **Discord Bot** that can **star
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
+### 2. Change you dicord bot token in the env file
+
+```bash
+BOT_TOKEN="your token"
+```
+### 3. Change the path to your local server in the startup.bat file
+
+```bash
+cd /
+cd "your server path"
+StartServer.bat
+```
+### 4. Ready to use!
+
+
